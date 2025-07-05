@@ -7,14 +7,14 @@ Interact with the Power BI dashboard ####
 # PROBLEM STATEMENT 💡
 Access to quality healthcare remains a significant challenge in Africa, with stark disparities between rural and urban regions. These inequities highlight inefficiencies in healthcare funding and resource allocation, preserving a cycle of unequal access.  This case study seeks to uncover the root causes of these disparities, evaluate the effectiveness of current healthcare funding models, and propose actionable solutions to ensure equitable healthcare access for all Africans, regardless of their location.
 
-# OBJECTIVES:
+# OBJECTIVES 🎯
 1. Identify Disparities: Analyze the distribution of healthcare facilities, workforce availability, and patient accessibility to highlight key differences between rural and urban regions.  
 2. Evaluate Funding Efficiency: Assess how healthcare funding is allocated and its impact on service delivery, particularly in underserved areas.  
 3. Improve Service Delivery: Provide data-driven insights to enhance emergency response times, patient satisfaction, and overall healthcare outcomes.  
 4. Propose Policy Recommendations: Develop actionable strategies for governments and stakeholders to bridge the gap between rural and urban healthcare services.  
 5. Optimize Resource Allocation: Suggest ways to maximize the impact of healthcare funding in underserved regions to ensure equitable access for all.
 
-# METHODOLOGY:
+# METHODOLOGY ✈
 POWER BI: Used to create visualizations, such as bar charts, pie charts, line charts, scatter plots, and tree maps, to represent the data visually and make it easier to understand and interpret.
 •	Load in our data
 •	Transform data (Create a new column for demography)
@@ -45,5 +45,19 @@ Date Formatting: Although no date columns exist in the dataset, numerical and ca
 Final Process and Data Validation
 •	The cleaned and transformed data was reviewed for accuracy and completeness.
 •	Power BI was used to create visualizations that depict insights from the cleaned dataset, ensuring the data was ready for analysis.
+
+# KPI OVERVIEW 💼
+To measure progress and evaluate the effectiveness of healthcare accessibility initiatives, the following Key Performance Indicators (KPIs) will be tracked:
+	Total Number of Doctors
+	Total funding received by all health facilities
+	Population recorded
+	Annual patient visits
+These KPIs will provide a comprehensive framework to monitor progress, identify gaps, and ensure that interventions are effectively improving healthcare accessibility and quality across Africa.
+
+# Key Business Questions ❓
+1.	How does the distribution of healthcare facilities compare between rural and urban regions?
+![image](https://github.com/user-attachments/assets/904e8576-2d4a-4afb-b770-c4a98df5386a)
+
+
 
 
