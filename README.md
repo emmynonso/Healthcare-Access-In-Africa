@@ -77,6 +77,7 @@ Urban facilities receive higher funding across all types:
 *	Clinics: $52 million
 *	Health Centers: $46 million
 *	Hospitals: $40 million
+
 Rural facilities receive considerably less funding:
 *	Clinics: $24 million
 *	Health Centers: $27 million
