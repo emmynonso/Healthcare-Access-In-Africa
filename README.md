@@ -47,11 +47,14 @@ Final Process and Data Validation
 •	Power BI was used to create visualizations that depict insights from the cleaned dataset, ensuring the data was ready for analysis.
 
 # KPI OVERVIEW 💼
+
+![image](https://github.com/user-attachments/assets/9b3ee6b5-99c9-4104-938a-03046ccf8ab3)
+
 To measure progress and evaluate the effectiveness of healthcare accessibility initiatives, the following Key Performance Indicators (KPIs) will be tracked:
-*	Total Number of Doctors
-*	Total funding received by all health facilities
-*	Population recorded
-*	Annual patient visits
+*	Total Number of Doctors 👨🏽‍⚕️
+*	Total funding received by all health facilities 💸
+*	Population recorded 👨‍👨‍👦‍👦
+*	Annual patient visits 😷
 These KPIs will provide a comprehensive framework to monitor progress, identify gaps, and ensure that interventions are effectively improving healthcare accessibility and quality across Africa.
 
 # Key Business Questions ❓
