@@ -55,6 +55,7 @@ To measure progress and evaluate the effectiveness of healthcare accessibility i
 *	Total funding received by all health facilities 💸
 *	Population recorded 👨‍👨‍👦‍👦
 *	Annual patient visits 😷
+
 These KPIs will provide a comprehensive framework to monitor progress, identify gaps, and ensure that interventions are effectively improving healthcare accessibility and quality across Africa.
 
 # Key Business Questions ❓
