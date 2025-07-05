@@ -59,11 +59,11 @@ These KPIs will provide a comprehensive framework to monitor progress, identify 
 
 ![image](https://github.com/user-attachments/assets/082591ad-3353-46a8-9178-eb163e9ead66)
 
-# Urban Areas: There are significantly more healthcare facilities here:
+Urban Areas: There are significantly more healthcare facilities here:
 •	Clinics: 472
 •	Health Centers: 431
 •	Hospitals: 393
-# Rural Areas: There are fewer facilities compared to urban regions:
+Rural Areas: There are fewer facilities compared to urban regions:
 •	Clinics: 224
 •	Health Centers: 248
 •	Hospitals: 232
