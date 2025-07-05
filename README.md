@@ -55,27 +55,23 @@ To measure progress and evaluate the effectiveness of healthcare accessibility i
 These KPIs will provide a comprehensive framework to monitor progress, identify gaps, and ensure that interventions are effectively improving healthcare accessibility and quality across Africa.
 
 # Key Business Questions ❓
-1.	How does the distribution of healthcare facilities compare between rural and urban regions?
+1. How does the distribution of healthcare facilities compare between rural and urban regions?
 
 ![image](https://github.com/user-attachments/assets/082591ad-3353-46a8-9178-eb163e9ead66)
 
-	Urban Areas: There are significantly more healthcare facilities here:
+# Urban Areas: There are significantly more healthcare facilities here:
 •	Clinics: 472
 •	Health Centers: 431
 •	Hospitals: 393
-	Rural Areas: There are fewer facilities compared to urban regions:
+# Rural Areas: There are fewer facilities compared to urban regions:
 •	Clinics: 224
 •	Health Centers: 248
 •	Hospitals: 232
 Key Insight: Urban areas have considerably more healthcare facilities than rural areas, which highlights a disparity in healthcare access. This difference might mean that rural communities have limited access to healthcare services. It emphasizes the need to invest more in rural healthcare infrastructure to bridge this gap.
 
-2.	Are urban healthcare facilities receiving more funding than rural ones?
+2. Are urban healthcare facilities receiving more funding than rural ones?
 
 ![image](https://github.com/user-attachments/assets/43a97f35-f242-4785-ac2e-0c6c4d136151)
-
-
-
-
 
 Urban facilities receive higher funding across all types:
 •	Clinics: $52 million
@@ -87,6 +83,20 @@ Rural facilities receive considerably less funding:
 •	Hospitals: $25 million
 Key Insight: Urban areas get much more funding for healthcare facilities compared to rural areas, regardless of the type of facility. This indicates an unequal distribution of resources, potentially leading to better healthcare services in urban areas while rural areas struggle with limited support.
 
+3. Are healthcare facilities with higher funding more likely to have shorter emergency response times?
+
+![image](https://github.com/user-attachments/assets/a64ca9f8-8fdc-4e45-b2e9-d9f9d01832aa)
+
+•	Clinics:
+o	Received the most funding: $75 million.
+o	Have the quickest response time: 32 minutes.
+•	Health Centers:
+o	Received $70 million in funding.
+o	Have the slowest response time: about 32.6 minutes.
+•	Hospitals:
+o	Received the least funding: $65 million.
+o	Their response time is slightly faster than Health Centers: about 32.4 minutes.
+Key Insight: Clinics stand out because they receive the highest funding and also have the fastest response times. Health Centers, despite receiving more funding than Hospitals, are the slowest in responding. This could mean that factors beyond funding, such as resource management or operational structure, might be affecting their response time.
 
 
 
