@@ -83,6 +83,7 @@ Rural facilities receive considerably less funding:
 *	Clinics: $24 million
 *	Health Centers: $27 million
 *	Hospitals: $25 million
+
 Key Insight: Urban areas get much more funding for healthcare facilities compared to rural areas, regardless of the type of facility. This indicates an unequal distribution of resources, potentially leading to better healthcare services in urban areas while rural areas struggle with limited support.
 
 3. Are healthcare facilities with higher funding more likely to have shorter emergency response times?
@@ -98,6 +99,7 @@ Key Insight: Urban areas get much more funding for healthcare facilities compare
 >	Hospitals:
 *	Received the least funding: $65 million.
 *	Their response time is slightly faster than Health Centers: about 32.4 minutes.
+
 Key Insight: Clinics stand out because they receive the highest funding and also have the fastest response times. Health Centers, despite receiving more funding than Hospitals, are the slowest in responding. This could mean that factors beyond funding, such as resource management or operational structure, might be affecting their response time.
 
 
