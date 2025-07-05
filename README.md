@@ -56,8 +56,15 @@ These KPIs will provide a comprehensive framework to monitor progress, identify 
 
 # Key Business Questions ❓
 1.	How does the distribution of healthcare facilities compare between rural and urban regions?
-![image](https://github.com/user-attachments/assets/904e8576-2d4a-4afb-b770-c4a98df5386a)
-
-
+![first](https://github.com/user-attachments/assets/319b21db-d6c6-486e-8d7c-f9a599299f41)
+	Urban Areas: There are significantly more healthcare facilities here:
+•	Clinics: 472
+•	Health Centers: 431
+•	Hospitals: 393
+	Rural Areas: There are fewer facilities compared to urban regions:
+•	Clinics: 224
+•	Health Centers: 248
+•	Hospitals: 232
+Key Insight: Urban areas have considerably more healthcare facilities than rural areas, which highlights a disparity in healthcare access. This difference might mean that rural communities have limited access to healthcare services. It emphasizes the need to invest more in rural healthcare infrastructure to bridge this gap.
 
 
