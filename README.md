@@ -74,13 +74,13 @@ Key Insight: Urban areas have considerably more healthcare facilities than rural
 ![image](https://github.com/user-attachments/assets/43a97f35-f242-4785-ac2e-0c6c4d136151)
 
 Urban facilities receive higher funding across all types:
-•	Clinics: $52 million
-•	Health Centers: $46 million
-•	Hospitals: $40 million
+*	Clinics: $52 million
+*	Health Centers: $46 million
+*	Hospitals: $40 million
 Rural facilities receive considerably less funding:
-•	Clinics: $24 million
-•	Health Centers: $27 million
-•	Hospitals: $25 million
+*	Clinics: $24 million
+*	Health Centers: $27 million
+*	Hospitals: $25 million
 Key Insight: Urban areas get much more funding for healthcare facilities compared to rural areas, regardless of the type of facility. This indicates an unequal distribution of resources, potentially leading to better healthcare services in urban areas while rural areas struggle with limited support.
 
 3. Are healthcare facilities with higher funding more likely to have shorter emergency response times?
