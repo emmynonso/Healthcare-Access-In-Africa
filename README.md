@@ -48,10 +48,10 @@ Final Process and Data Validation
 
 # KPI OVERVIEW 💼
 To measure progress and evaluate the effectiveness of healthcare accessibility initiatives, the following Key Performance Indicators (KPIs) will be tracked:
-	Total Number of Doctors
-	Total funding received by all health facilities
-	Population recorded
-	Annual patient visits
+*	Total Number of Doctors
+*	Total funding received by all health facilities
+*	Population recorded
+*	Annual patient visits
 These KPIs will provide a comprehensive framework to monitor progress, identify gaps, and ensure that interventions are effectively improving healthcare accessibility and quality across Africa.
 
 # Key Business Questions ❓
@@ -71,7 +71,8 @@ Key Insight: Urban areas have considerably more healthcare facilities than rural
 
 2.	Are urban healthcare facilities receiving more funding than rural ones?
 
-![image](https://github.com/user-attachments/assets/17f46ece-7d8d-4c57-95ec-d48090f4ee85)
+![image](https://github.com/user-attachments/assets/6d0cca9e-6ed1-4c45-a3db-850b3fa9118f)
+
 
 Urban facilities receive higher funding across all types:
 •	Clinics: $52 million
