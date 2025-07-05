@@ -13,3 +13,37 @@ Access to quality healthcare remains a significant challenge in Africa, with sta
 3. Improve Service Delivery: Provide data-driven insights to enhance emergency response times, patient satisfaction, and overall healthcare outcomes.  
 4. Propose Policy Recommendations: Develop actionable strategies for governments and stakeholders to bridge the gap between rural and urban healthcare services.  
 5. Optimize Resource Allocation: Suggest ways to maximize the impact of healthcare funding in underserved regions to ensure equitable access for all.
+
+# METHODOLOGY:
+POWER BI: Used to create visualizations, such as bar charts, pie charts, line charts, scatter plots, and tree maps, to represent the data visually and make it easier to understand and interpret.
+•	Load in our data
+•	Transform data (Create a new column for demography)
+•	Close and apply
+•	Create visuals to know our findings.
+DATA TRANSFORMATION
+To prepare the Healthcare accessibility in Africa dataset for analysis by performing data cleaning and transformation tasks using Power BI. The process includes handling duplicates, missing values, and ensuring data consistency across various columns.
+Extract, Load and Transform (ELT)
+Data Import and Table Creation
+Importing Data: The dataset was loaded into Power BI from the provided CSV file containing 2,000 records and 15 columns.
+Data Structure: The dataset includes information on healthcare facilities, including location, facility type, and number of medical staff, patient visits, response times, funding, infrastructure availability, and patient satisfaction rates.
+
+# Transform:  
+1. Identifying and Handling Duplicates
+Checking for Duplicates: The dataset did not contain duplicates in any column.
+2. Handling Missing Values	
+Identifying Missing Values:
+The dataset did not contain missing values in any column.
+Further checks were done to ensure completeness
+3. Standardizing Data
+Standardizing Categorical Values:
+The Facility Type column was reviewed to ensure uniform naming conventions (e.g., “Clinic,” “Hospital,” “Health Center”).
+Date Formatting: Although no date columns exist in the dataset, numerical and categorical data were formatted properly already.
+4. Creating New Columns
+•	The creation of the “urban_Rural Areas” Column was created. The classification into Urban or Rural was based on the following existing columns: population density, Electricity availability and Internet availability. Where population >=5000 (which represents an estimated value of the average population) “Urban”, else “Rural”. For electricity and internet availability, where “yes” = “Urban”, else “Rural”.
+•	The Efficiency measure was created to evaluate how effectively healthcare facilities use their allocated funding. It is calculated by dividing the funding received by the annual patient visits.
+# Load
+Final Process and Data Validation
+•	The cleaned and transformed data was reviewed for accuracy and completeness.
+•	Power BI was used to create visualizations that depict insights from the cleaned dataset, ensuring the data was ready for analysis.
+
+
