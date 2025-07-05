@@ -71,7 +71,8 @@ Key Insight: Urban areas have considerably more healthcare facilities than rural
 
 2.	Are urban healthcare facilities receiving more funding than rural ones?
 
-![image](https://github.com/user-attachments/assets/6d0cca9e-6ed1-4c45-a3db-850b3fa9118f)
+![image](https://github.com/user-attachments/assets/d7836c19-0357-4972-aed9-632898523014)
+
 
 
 Urban facilities receive higher funding across all types:
