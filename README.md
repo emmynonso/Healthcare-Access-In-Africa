@@ -105,5 +105,18 @@ Key Insight: Urban areas get much more funding for healthcare facilities compare
 
 Key Insight: Clinics stand out because they receive the highest funding and also have the fastest response times. Health Centers, despite receiving more funding than Hospitals, are the slowest in responding. This could mean that factors beyond funding, such as resource management or operational structure, might be affecting their response time.
 
+4. Which facility types (hospitals, clinics, health centers) show the highest efficiency in terms of funding per patient visit?
+
+![image](https://github.com/user-attachments/assets/aa37cda8-28d4-4307-b349-ad71fe2d2ff3)
+
+Efficiency Scores:
+
+*	Health Centers and Clinics: Both have the highest efficiency score of 10.1, making them equally efficient.
+*	Hospitals: Have a slightly lower efficiency score of 10.0, but the difference is very minimal.
+
+Key Insight: The scores indicate that all three types of facilities operate at very high efficiency levels. However, Health Centers and Clinics are marginally more efficient than Hospitals.
+
+
+
 
 
