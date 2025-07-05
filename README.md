@@ -57,7 +57,7 @@ These KPIs will provide a comprehensive framework to monitor progress, identify 
 # Key Business Questions ❓
 1.	How does the distribution of healthcare facilities compare between rural and urban regions?
 
-![first](https://github.com/user-attachments/assets/319b21db-d6c6-486e-8d7c-f9a599299f41)
+![image](https://github.com/user-attachments/assets/082591ad-3353-46a8-9178-eb163e9ead66)
 
 	Urban Areas: There are significantly more healthcare facilities here:
 •	Clinics: 472
