@@ -88,14 +88,14 @@ Key Insight: Urban areas get much more funding for healthcare facilities compare
 ![image](https://github.com/user-attachments/assets/a64ca9f8-8fdc-4e45-b2e9-d9f9d01832aa)
 
 •	Clinics:
-o	Received the most funding: $75 million.
-o	Have the quickest response time: 32 minutes.
+*	Received the most funding: $75 million.
+*	Have the quickest response time: 32 minutes.
 •	Health Centers:
-o	Received $70 million in funding.
-o	Have the slowest response time: about 32.6 minutes.
+*	Received $70 million in funding.
+*	Have the slowest response time: about 32.6 minutes.
 •	Hospitals:
-o	Received the least funding: $65 million.
-o	Their response time is slightly faster than Health Centers: about 32.4 minutes.
+*	Received the least funding: $65 million.
+*	Their response time is slightly faster than Health Centers: about 32.4 minutes.
 Key Insight: Clinics stand out because they receive the highest funding and also have the fastest response times. Health Centers, despite receiving more funding than Hospitals, are the slowest in responding. This could mean that factors beyond funding, such as resource management or operational structure, might be affecting their response time.
 
 
