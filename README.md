@@ -61,15 +61,15 @@ These KPIs will provide a comprehensive framework to monitor progress, identify 
 
 Urban Areas: There are significantly more healthcare facilities here:
 
-•	Clinics: 472
-•	Health Centers: 431
-•	Hospitals: 393
+*	Clinics: 472
+*	Health Centers: 431
+*	Hospitals: 393
 
 Rural Areas: There are fewer facilities compared to urban regions:
 
-•	Clinics: 224
-•	Health Centers: 248
-•	Hospitals: 232
+*	Clinics: 224
+*	Health Centers: 248
+*	Hospitals: 232
 
 Key Insight: Urban areas have considerably more healthcare facilities than rural areas, which highlights a disparity in healthcare access. This difference might mean that rural communities have limited access to healthcare services. It emphasizes the need to invest more in rural healthcare infrastructure to bridge this gap.
 
