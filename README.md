@@ -67,6 +67,7 @@ Rural Areas: There are fewer facilities compared to urban regions:
 •	Clinics: 224
 •	Health Centers: 248
 •	Hospitals: 232
+
 Key Insight: Urban areas have considerably more healthcare facilities than rural areas, which highlights a disparity in healthcare access. This difference might mean that rural communities have limited access to healthcare services. It emphasizes the need to invest more in rural healthcare infrastructure to bridge this gap.
 
 2. Are urban healthcare facilities receiving more funding than rural ones?
